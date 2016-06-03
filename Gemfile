@@ -7,10 +7,10 @@ gem 'rails',                      '4.2.4'
 gem 'puma',                       '2.13.4'
 gem 'rack-canonical-host',        '0.1.0'
 
-gem "rghost"
-gem "rghost_barcode"
-gem "parseline"
-gem "brcobranca", :github => "kivanio/brcobranca"
+gem 'rghost'
+gem 'rghost_barcode'
+gem 'parseline'
+gem 'brcobranca', github: 'kivanio/brcobranca'
 
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
