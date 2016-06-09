@@ -7,7 +7,7 @@ gem 'rails',                      '4.2.4'
 gem 'puma',                       '2.13.4'
 gem 'rack-canonical-host',        '0.1.0'
 
-gem 'rghost'
+gem 'rgho st'
 gem 'rghost_barcode'
 gem 'parseline'
 gem 'brcobranca', github: 'kivanio/brcobranca'
