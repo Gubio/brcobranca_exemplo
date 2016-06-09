@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 ruby '2.2.3'
 
 gem 'rails',                      '4.2.4'
-
 # Server, Rack & Middlewares
 gem 'puma',                       '2.13.4'
 gem 'rack-canonical-host',        '0.1.0'
